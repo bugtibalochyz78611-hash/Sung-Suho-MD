@@ -9,7 +9,7 @@ function convertToBool(text, fault = "true") {
 module.exports = {
   SESSION_ID: process.env.SESSION_ID || "PE9jTZzY#DbtPAkkTeVSpN_wc5JBmje6uhJhD58Df8v7IkpTc1pY",
   OWNER_NUM: process.env.OWNER_NUM || "923334104708",
-  OWNER_NAME: process.env.OWNER_NAME || "Lord Sung",
+  OWNER_NAME: process.env.OWNER_NAME || "Ikhlaq ahmed",
   REPO: process.env.REPO || "https://github.com/NaCkS-ai/Sung-Suho-MD", 
   PREFIX: process.env.PREFIX || ".",
   AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
